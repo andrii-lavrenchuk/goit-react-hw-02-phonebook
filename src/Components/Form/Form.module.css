@@ -1,0 +1,12 @@
+.label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 15px;
+}
+
+.button {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
